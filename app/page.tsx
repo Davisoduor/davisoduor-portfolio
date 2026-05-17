@@ -39,7 +39,8 @@ export default function Home() {
             LinkedIn
           </a>
           <a
-            href="mailto:davisoduor65@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&to=davisoduor65@gmail.com"
+            target="_blank"
             className="border border-zinc-700 px-6 py-3 hover:border-green-400 transition text-sm"
           >
             Contact
